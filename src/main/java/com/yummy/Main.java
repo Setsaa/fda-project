@@ -1,4 +1,4 @@
-package yummy;
+package com.yummy;
 
 public class Main {
 
